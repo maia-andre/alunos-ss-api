@@ -1,31 +1,31 @@
 [
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Linha 06 - São Sebastião x Mogi das Cruzes",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Saída da Rodoviária",
+      "imagem": "https://costanorte.com.br/image/policy:1.97272.1601095391/image.jpg?f=2x1"
     },
     "mandante": {
-    "nome": "Brasil",
+    "nome": "Nome Completo do Aluno",
     "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    "imagem": "https://cdn-icons-png.flaticon.com/512/67/67902.png"
      },
     "visitante": {
     "nome": "Argentina",
     "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    "imagem": "https://cdn-icons-png.flaticon.com/512/67/67902.png"
     }
   },
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Centenário",
-      "imagem": "TODO"
+      "nome": "Rodoviária",
+      "imagem": "https://costanorte.com.br/image/policy:1.97272.1601095391/image.jpg?f=2x1"
     },
     "mandante": {
-    "nome": "Uruguay",
+    "nome": "Nome Completo do Aluno",
     "forca": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    "imagem": "https://cdn-icons-png.flaticon.com/512/67/67902.png"
      },
     "visitante": {
     "nome": "Brasil",
@@ -37,12 +37,12 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Centenário",
-      "imagem": "TODO"
+      "imagem": "https://costanorte.com.br/image/policy:1.97272.1601095391/image.jpg?f=2x1"
     },
     "mandante": {
-    "nome": "Uruguay",
+    "nome": "Nome Completo do Aluno",
     "forca": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    "imagem": "https://cdn-icons-png.flaticon.com/512/67/67902.png"
      },
     "visitante": {
     "nome": "Colômbia",
